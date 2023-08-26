@@ -2,7 +2,7 @@
 
 A Chrome extension which helps user to be more productive while using YouTube.
 
-Program written in `HTML`, `CSS` and `JS`
+Program written in `HTML` and `JS`
 
 ## Features
 
