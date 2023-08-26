@@ -1,7 +1,8 @@
 ## About
 
 A Chrome extension which helps user to be more productive while using YouTube.
-Written in `HTML`, `CSS` and `JS`
+
+Progarm written in `HTML`, `CSS` and `JS`
 
 ## Features
 
@@ -17,6 +18,8 @@ Written in `HTML`, `CSS` and `JS`
   - Can't open recommended Videos
   - Can't read any comments
   - Can't go to any other sections like (gaming, music, trending, etc.)
+
+
  
 ![Screenshot (1140)](https://github.com/khushi-jagwani13/Get-Productive-Youtube-extension/assets/101161240/2984c6d2-8b73-4e25-aaf5-ac6792c3724f)
 
