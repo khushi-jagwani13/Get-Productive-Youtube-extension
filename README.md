@@ -21,11 +21,11 @@ Program written in `HTML` and `JS`
 
 
  
-![Screenshot (1140)](https://github.com/khushi-jagwani13/Get-Productive-Youtube-extension/assets/101161240/2984c6d2-8b73-4e25-aaf5-ac6792c3724f)
+![Screenshot (1140)](https://github.com/khushi-jagwani13/Get-Productive-Youtube-extension/assets/101161240/2858f15a-5d9b-4429-b0a1-17c091f86132)
 
-![Screenshot (1141)](https://github.com/khushi-jagwani13/Get-Productive-Youtube-extension/assets/101161240/f9508f7b-7028-42e6-9239-ebedc67701b6)
+![Screenshot (1141)](https://github.com/khushi-jagwani13/Get-Productive-Youtube-extension/assets/101161240/ef79bdf0-ef2c-4e96-9408-8310dde62084)
 
-![Screenshot (1142)](https://github.com/khushi-jagwani13/Get-Productive-Youtube-extension/assets/101161240/97947db2-42f9-4d14-8750-6e25ab930503)
+![Screenshot (1142)](https://github.com/khushi-jagwani13/Get-Productive-Youtube-extension/assets/101161240/23cbb3be-95d8-4967-8add-220228a3d968)
 
 
 
